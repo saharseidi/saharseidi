@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! I'm Sahar! 👋
 
-<!--
-**saharseidi/saharseidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My education is in Computer Engineering but I discovered AI in 2016 and fell in love with it! 
+Since then, I have been working in the Data Science field and I've been trying to stay up to date with my AI knowledge. 
 
-Here are some ideas to get you started:
+I work as a Data Scientist and a Machine Learning Engineer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have created this repository to showcase some of my projects in the Machine Learning field. 
+
+
+- 🔭 I’m currently working towards my AWS Machine Learning Spacialty Exam
+- 🌱 I’m currently working as a Data Scientist
+- 📫 How to reach me: [My LinkedIn profile] (https://www.linkedin.com/in/saharseidi/)
+- 😄 Pronouns: She/Her
+
+
